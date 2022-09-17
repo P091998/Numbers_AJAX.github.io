@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: palevioletred;
+    text-align: center;
+}
+.container{
+    margin-top: 50px;
+    margin-right: 500px;
+    margin-bottom: auto;
+    margin-left: 500px;
+    height: 650px;
+    width: 500px;
+    border: 2px solid;
+    border-color: cornsilk;
+    background-image: linear-gradient(to bottom, rgb(126, 126, 224), magenta, orange, yellow);
+}
+
+#generate{
+    text-shadow: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#enter{
+    font-weight: bold;
+    float: left;
+    margin-top: 5%;
+}
+
+#number{
+    margin-top: 10%;
+    float: left;
+    height: 30px;
+    width: 450px;
+    background-color: white;
+}
+
+#facts{
+    margin-top: 4%;
+    float: left;
+    display: none;
+}
+
+#display{
+    text-align: justify;
+    margin-top: 38%;
+    width: auto;
+    font-weight: bold;
+    
+}
